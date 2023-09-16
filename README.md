@@ -1,4 +1,5 @@
 # Frontend Mentor - Loopstudios landing page
+![image](https://github.com/fizasaif123/loopstudios-landing-page/assets/62798377/451c72d4-d1da-4f0f-9b79-8b77ef1006d5)
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
